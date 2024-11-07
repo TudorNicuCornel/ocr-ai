@@ -1,0 +1,3 @@
+.document-section .upload-label {
+    @apply flex items-center justify-center w-full p-2 border-2 border-dashed border-gray-600 rounded-lg cursor-pointer hover:border-blue-500 transition-colors;
+  }
